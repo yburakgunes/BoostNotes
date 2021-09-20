@@ -1,0 +1,6 @@
+valueof vs parseInt
+Valueof verileri Integer olarak dönüştürür. ParseInt sadece int olarak dönüştürür.
+value of wrapper class, parseInt primitive type.
+Integer.parseInt sadece Stringleri parametre olarak alabilir. valueOf hem string hem de integer'ı parametre olarak alabilir.
+valueOf daha iyi bellek ve zaman performansına sahip.
+valueOf object gerekli olduğunda kullanılır. Parseint ise sadece primitive data type ihtiyaç olduğunda kullanılır.
